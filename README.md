@@ -11,6 +11,7 @@ This is a set of data management tools I have used to capture, manage, analyze, 
 faster, and cheaper.  
 
 Mechanical learning objectives: 
+
 o  Write SQL queries to retrieve data from a relational database 
 o  Setup, connect to, and retrieve data from, database servers in the cloud via 
 Amazon Web Services (AWS) 
@@ -25,6 +26,7 @@ o  Capture, represent, analyze, and otherwise and manipulate loosely-
 structured data using JSON and NoSQL tools 
  
 Conceptual learning objectives:  
+
 o  Present the results of your data exploration and analysis to others in a 
 concise and compelling way. 
 o  Explain the concept of data quality and the most common qualities 
